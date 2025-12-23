@@ -111,6 +111,5 @@ resultados de negócio.
 
 ## 👤 Autor
 
-**Eduardo Carlos**  
-Estudante de Análise de Dados / Ciência de Dados  
-
+**Carlos Jaquis**  
+Estudante de Análise de Dados / Ciência de Dados 
