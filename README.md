@@ -104,7 +104,6 @@ A maior parte dos pedidos foi entregue com sucesso
 ## 📦 Como Executar
 
 ```bash
-Copiar código
 pip install -r requirements.txt
 ```
 
